@@ -1,6 +1,6 @@
 # SocketCommunication
 
-After launching Server, please follow the steps below. <br>
+After launching both Server and Client, please follow the steps below. <br>
 
 Step 1 : [Server] <br>
 Click "Start Server". <br>
